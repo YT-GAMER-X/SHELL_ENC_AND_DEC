@@ -29,7 +29,12 @@ _____10_____ ==> _____python2 SHELL_ENC_AND_DEC.py_____
 
 _____------DONE------_____
 
-_____It simply to use_____
+_____It's simply to use_____
+
+____Enter INPUT FILE PATH____
+
+____Enter OUTPUT FILE PATH____
+
 
 _____SUBSCRIBE ME ON YOU_TUBE_____
 
