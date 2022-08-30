@@ -13,7 +13,7 @@ _____4_____ ==> _____pkg install python_____
 
 _____5_____ ==> _____pkg install python2_____
 
-_____6_____ ==> _____pkg install nodejs____
+_____6_____ ==> ____pkg install nodejs____
 
 _____7_____ ==> _____npm install -g bash-obfuscate____
 
