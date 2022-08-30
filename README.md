@@ -15,7 +15,7 @@ _____5_____ ==> _____pkg install python2_____
 
 _____6_____ ==> ____pkg install nodejs____
 
-_____7_____ ==> _____npm install -g bash-obfuscate____
+_____7_____ ==> ____npm install -g bash-obfuscate____
 
 _____8_____ ==> _____git clone https://github.com/YT-GAMER-X/SHELL_ENC_AND_DEC_____
 
