@@ -25,7 +25,7 @@ _____8_____ ==> ____cd SHELL_ENC_AND_DEC____
 
 _____9_____ ==> _____ls_____
 
-_____10_____ ==> _____python2 WEP_INFORMATION.py_____
+_____10_____ ==> _____python2 SHELL_ENC_AND_DEC.py_____
 
 _____------DONE------_____
 
