@@ -21,7 +21,7 @@ _____8_____ ==> _____git clone https://github.com/YT-GAMER-X/SHELL_ENC_AND_DEC__
 
 _____7_____ ==> _____ls_____
 
-_____8_____ ==> _____cd SHELL_ENC_AND_DEC____
+_____8_____ ==> ____cd SHELL_ENC_AND_DEC____
 
 _____9_____ ==> _____ls_____
 
