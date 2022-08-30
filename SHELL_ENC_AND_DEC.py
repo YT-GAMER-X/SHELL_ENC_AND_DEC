@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 import os
 import sys
@@ -12,7 +13,7 @@ G = "\033[1;32m"
 Y = "\033[1;33m"
 C = "\033[1;36m"
 
-sukses = G + "[" + W + "√" + G + "] "
+YT_GAMER_X = G + "[" + W + "√" + G + "] "
 ERROR = R + "[" + G + "!" + R + "]"
 
 os.system ("clear")
@@ -55,14 +56,14 @@ banner = """
 #YT GAME X
 print banner
 
-def dekrip():
+def YT_GAMER_X_2():
    try:
        sc = raw_input(Y + "『" + G + "𝙸𝙽𝙿𝚄𝚃" + Y + "๛" + G + "𝙵𝙸𝙻𝙴" + Y + "๛" + G + "𝙿𝙰𝚃𝙷" + Y + "』" + G + "==" + Y + "> " + G)
        f = open(sc,"r")
        filedata = f.read()
        f.close()
 
-       newdata = filedata.replace("eval","echo")
+       newdata = filedata.replace("YT_GAMER_X","echo")
 
        out = raw_input(Y + "『" + G + "𝙾𝚄𝚃𝙿𝚄𝚃" + Y + "๛" + G + "𝙵𝙸𝙻𝙴" + Y + "๛" + G + "𝙿𝙰𝚃𝙷" + Y + "』" + G + "==" + Y + "> " + G)
        f = open(out,"w")
@@ -73,19 +74,19 @@ def dekrip():
        os.system("bash " + out + " > tes.sh")
        os.remove(out)
        os.system("mv -f tes.sh " + out)
-       print (sukses + "Done..")
+       print (YT_GAMER_X + "𝙳𝚘𝚗𝚎. . . .")
 
    except KeyboardInterrupt:
-       print (eror + " Stopped!")
+       print (eror + " 𝚂𝚝𝚘𝚙𝚙𝚎𝚍!")
    except IOError:
        print (eror + "𝙵𝚒𝚕𝚎 𝙽𝚘𝚝 𝙵𝚘𝚞𝚗𝚍!")
 
-def enkrip():
+def YT_GAMER_X_1():
    try:
        script = raw_input(Y + "『" + G + "𝙸𝙽𝙿𝚄𝚃" + Y + "๛" + G + "𝙵𝙸𝙻𝙴" + Y + "๛" + G + "𝙿𝙰𝚃𝙷" + Y + "』" + G + "==" + Y + "> " + G)
        output = raw_input(Y + "『" + G + "𝙾𝚄𝚃𝙿𝚄𝚃" + Y + "๛" + G + "𝙵𝙸𝙻𝙴" + Y + "๛" + G + "𝙿𝙰𝚃𝙷" + Y + "』" + G + "==" + Y + "> " + G)
        os.system("bash-obfuscate " + script + " -o " + output )
-       print (sukses + "Done..")
+       print (YT_GAMER_X + "𝙳𝚘𝚗𝚎. . . .")
    except KeyboardInterrupt:
        print (eror + "𝚂𝚝𝚘𝚙𝚙𝚎𝚍!")
    except IOError:
@@ -94,9 +95,10 @@ def enkrip():
 
 takok = raw_input(Y + "『" + G + "𝚂𝙴𝙻𝙴𝙲𝚃" + Y + "๛" + G + "𝙽𝚄𝙼𝙱𝙴𝚁" + Y + "』" + G + "==" + Y + "> " + G)
 
-if takok == "1" or takok == "01":
-   enkrip()
-elif takok == "2" or takok == "02":
-   dekrip()
+if takok == "1":
+   YT_GAMER_X_1()
+elif takok == "2":
+   YT_GAMER_X_2()
 else:
    print ("\n" + ERROR + "『𝚆𝚛𝚘𝚗𝚐๛𝚒𝚗𝚙𝚞𝚝』")
+   
