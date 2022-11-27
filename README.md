@@ -18,6 +18,8 @@ With this tool you can encrypt and decrypt SHELL file **.**
 * `ls`
 * `cd SHELL_ENC_AND_DEC`
 * `ls`
+* `chmod 777 SHELL_ENC_AND_DEC.py`
+* `ls`
 * `python2 SHELL_ENC_AND_DEC.py`
 
 # SUBSCRIBE
