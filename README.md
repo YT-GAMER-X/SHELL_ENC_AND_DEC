@@ -1,45 +1,24 @@
 # SHELL_ENC_AND_DEC
-Encrypt and decrypt shell file by python script 
+**ABOUT TOOL :**<br>
+**SHELL_ENC_AND_DEC** is a tool created for termux and Kali Linux
 
-👇installing🤞command 👇
+With this tool you can encrypt and decrypt SHELL file **.**
 
-_____1_____ ==> _____apt update_____
+# SCREENSHOOT
+![1](https://github.com/YT-GAMER-X/SHELL_ENC_AND_DEC/blob/c0f81cb303c3e2764b04048d0ebae5507559f404/SCREENSHOT.png)
 
-_____2_____ ==> _____apt upgrade_____
+# INSTALLATION COMMAND
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install git -y`
+* `pkg install python2 -y`
+* `pkg install nodejs -y`
+* `npm install -g bash-obfuscate`
+* `git clone https://github.com/YT-GAMER-X/SHELL_ENC_AND_DEC`
+* `ls`
+* `cd SHELL_ENC_AND_DEC`
+* `ls`
+* `python2 SHELL_ENC_AND_DEC.py`
 
-_____3_____ ==> _____pkg install git_____
-
-_____4_____ ==> _____pkg install python_____
-
-_____5_____ ==> _____pkg install python2_____
-
-_____6_____ ==> ____pkg install nodejs____
-
-_____7_____ ==> ____npm install -g bash-obfuscate____
-
-_____8_____ ==> _____git clone https://github.com/YT-GAMER-X/SHELL_ENC_AND_DEC_____
-
-_____7_____ ==> _____ls_____
-
-_____8_____ ==> ____cd SHELL_ENC_AND_DEC____
-
-_____9_____ ==> _____ls_____
-
-_____10_____ ==> _____python2 SHELL_ENC_AND_DEC.py_____
-
-_____------DONE------_____
-
-_____It's simply to use_____
-
-____Enter INPUT FILE PATH____
-
-____Enter OUTPUT FILE PATH____
-
-
-_____SUBSCRIBE ME ON YOU_TUBE_____
-
-_____https://www.youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw_____
-
-_____KEEP SUPPORTING bye... bye..._____
-
-_____💥💥💥💥💥💥💥💥💥💥💥💥💥_____
+# SUBSCRIBE
+<a href="https://www.youtube.com/@YT-GAMER-X"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> 
